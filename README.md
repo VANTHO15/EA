@@ -4,5 +4,5 @@
 
 ![image](https://github.com/VANTHO15/EA/assets/56969447/465a0e13-89f1-40d5-b638-1d752848f9f6)
 
-# doc: https://docs.google.com/document/d/16pu2iVqJBCmGYEkAXLrz4gSjjD359OndB0gMdTQ00Wo/edit
 # https://docs.google.com/presentation/d/17HuyXU3q_LO85IarRh_hP_MTxBPV2n6V/edit#slide=id.g250179aa5de_0_26
+# Template: https://drive.google.com/file/d/1v4cmJ798YB3NZB9S5i0MnwVRyme4at_Q/view?usp=sharing
